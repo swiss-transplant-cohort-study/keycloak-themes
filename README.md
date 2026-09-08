@@ -1,4 +1,4 @@
-> :rocket: **Try it for free** in the new Phase Two [keycloak managed service](https://phasetwo.io/?utm_source=github&utm_medium=readme&utm_campaign=keycloak-themes). See the [announcement and demo video](https://phasetwo.io/blog/self-service/) for more information.
+> **STCS fork.** This is the Swiss Transplant Cohort Study fork of [p2-inc/keycloak-themes](https://github.com/p2-inc/keycloak-themes), rebranded with STCS logos, icons and naming for the DigiCore Keycloak deployment. Upstream attribution, copyright and licensing below are unchanged.
 
 # keycloak-themes
 

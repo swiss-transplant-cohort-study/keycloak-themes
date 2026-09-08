@@ -1,7 +1,7 @@
 {
   "realm": "phasetwo-ui",
   "enabled": true,
-  "displayName": "Phase Two UI Dev",
+  "displayName": "STCS UI Dev",
   "loginTheme": "phasetwo-ui",
   "adminTheme": "phasetwo-ui",
   "emailTheme": "phasetwo-ui",
@@ -30,7 +30,7 @@
     {
       "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
       "clientId": "phasetwo-ui-dev",
-      "name": "Phase Two UI Dev",
+      "name": "STCS UI Dev",
       "enabled": true,
       "publicClient": true,
       "standardFlowEnabled": true,

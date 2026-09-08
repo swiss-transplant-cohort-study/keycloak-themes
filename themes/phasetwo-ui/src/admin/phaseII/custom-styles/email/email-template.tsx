@@ -92,7 +92,7 @@ const EmailPreview = ({
         fontSize: 14,
       }}
     >
-      {/* Logo — custom if uploaded, Phase Two default otherwise */}
+      {/* Logo — custom if uploaded, STCS default otherwise */}
       <img
         src={logoBase64 || phaseTwoLogoUrl}
         alt="Logo"
@@ -152,7 +152,7 @@ const EmailPreview = ({
         <br />
         Powered by{" "}
         <span style={{ color: "#171717", textDecoration: "underline" }}>
-          Phase Two
+          STCS
         </span>
       </p>
     </div>

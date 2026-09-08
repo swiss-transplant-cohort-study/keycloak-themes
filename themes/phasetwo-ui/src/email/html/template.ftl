@@ -70,7 +70,7 @@
                                   <br />${branding.footerLine2}
                                 </#if>
                                 <br />
-                                Powered by <a href="https://phasetwo.io" style="color:#171717;text-decoration:underline;" target="_blank">Phase Two</a>
+                                Powered by <a href="https://www.stcs.ch" style="color:#171717;text-decoration:underline;" target="_blank">STCS</a>
                               </p>
                           </td>
                         </tr>
