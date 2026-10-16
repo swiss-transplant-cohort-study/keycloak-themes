@@ -60,6 +60,14 @@ const { I18nProvider, useI18n } = i18nBuilder
       validationSuccessTitle: "Successful Identity Provider Validation!",
       validationCloseWindow:
         "You may now close this window and return to the application.",
+      // STCS registration: requested applications (components/stcs)
+      stcsRequestedAppsLoading: "Loading applications…",
+      stcsRequestedAppsError:
+        "The list of applications could not be loaded. You can still register, and an administrator will follow up.",
+      stcsRequestedAppsEmpty:
+        "No applications are open for requests right now. You can still register.",
+      // {0} is the field, {1} the rejected client id.
+      stcsInvalidRegistrationApp: "{1} is not available to request.",
     },
   })
   .build();

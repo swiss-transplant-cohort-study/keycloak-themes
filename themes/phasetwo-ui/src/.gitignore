@@ -19,6 +19,7 @@
 # admin/assets/icon.svg
 # admin/assets/img_avatar.svg
 # admin/assets/logo.svg
+# admin/clients/ClientDescription.tsx
 # admin/dashboard/Dashboard.tsx
 # admin/identity-providers/IdentityProvidersSection.tsx
 # admin/realm-settings/GeneralTab.tsx
@@ -31,12 +32,14 @@
 # email/html/template.ftl
 # login/pages/PageIndex.tsx
 # admin/components/form/FormAccess.tsx
+# admin/components/users/UserDataTable.tsx
 # admin/components/view-header/ViewHeader.tsx
 # admin/context/access/Access.tsx
 # admin/realm-settings/routes/RealmSettings.tsx
 # admin/realm-settings/themes/ThemeSettings.tsx
 # admin/user/routes/User.tsx
 # login/components/Template/Template.tsx
+# login/components/UserProfileFormFields/InputFieldByType.tsx
 # login/components/UserProfileFormFields/SelectTag.tsx
 # login/pages/delete-account-confirm/Page.tsx
 # login/pages/delete-credential/Page.tsx
@@ -47,6 +50,7 @@
 # login/pages/login-page-expired/Page.tsx
 # login/pages/login-verify-email/Page.tsx
 # login/pages/logout-confirm/Page.tsx
+# login/pages/register/Form.tsx
 # login/pages/webauthn-authenticate/Page.tsx
 # shared/@patternfly/react-core/index.tsx
 # shared/keycloak-ui-shared/controls/table/KeycloakDataTable.tsx
@@ -151,7 +155,6 @@
 /admin/client-scopes/EditClientScope.tsx
 /admin/client-scopes/routes.ts
 /admin/clients/AdvancedTab.tsx
-/admin/clients/ClientDescription.tsx
 /admin/clients/ClientDetails.tsx
 /admin/clients/ClientSessions.tsx
 /admin/clients/ClientSettings.tsx
@@ -529,7 +532,6 @@
 /admin/components/time-selector/TimeSelector.tsx
 /admin/components/time-selector/TimeSelectorControl.tsx
 /admin/components/time-selector/TimeSelectorForm.tsx
-/admin/components/users/UserDataTable.tsx
 /admin/components/users/UserDataTableAttributeSearchForm.tsx
 /admin/components/users/UserDataTableToolbarItems.tsx
 /admin/components/users/UserSelect.tsx
@@ -938,7 +940,6 @@
 /login/components/UserProfileFormFields/FieldErrors.tsx
 /login/components/UserProfileFormFields/GroupLabel.tsx
 /login/components/UserProfileFormFields/index.ts
-/login/components/UserProfileFormFields/InputFieldByType.tsx
 /login/components/UserProfileFormFields/InputLabel.tsx
 /login/components/UserProfileFormFields/InputTag.tsx
 /login/components/UserProfileFormFields/InputTagSelects.tsx
@@ -1032,7 +1033,6 @@
 /login/pages/login-x509-info/Page.tsx
 /login/pages/logout-confirm/index.ts
 /login/pages/logout-confirm/Page.stories.tsx
-/login/pages/register/Form.tsx
 /login/pages/register/index.ts
 /login/pages/register/Page.stories.tsx
 /login/pages/register/Page.tsx
